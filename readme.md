@@ -40,10 +40,10 @@ This repository is released under MIT License (see LICENSE file for details).
 
 ## Citation
 ```
-@inproceedings{nakayama2023difffacto,
-      title={DiffFacto: Controllable Part-Based 3D Point Cloud Generation with Cross Diffusion}, 
-      author={Kiyohiro Nakayama and Mikaela Angelina Uy and Jiahui Huang and Shi-Min Hu and Ke Li and Leonidas Guibas},
-      year={2023},
-      booktitle = {International Conference on Computer Vision (ICCV)},
+@inproceedings{nakayama2024provnerf,
+    title={ProvNeRF: Modeling per Point Provenance in NeRFs as a Stochastic Field}, 
+    author={Kiyohiro Nakayama and Mikaela Angelina Uy and Yang You and Ke Li and Leonidas Guibas},
+    journal = {Advances in Neural Information Processing Systems (NeurIPS)}},
+    year={2024}
 }
 ```
