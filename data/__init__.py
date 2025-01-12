@@ -1,0 +1,1 @@
+from .load_scene import load_scene_scannet
