@@ -14,7 +14,7 @@ Neural radiance fields (NeRFs) have gained popularity with multiple works showin
 ## Pretrained Models
 DiffFacto pretrained models can be downloaded [here](http://download.cs.stanford.edu/orion/ProvNeRF/provnerf_pretrained.zip). Place the unzipped folder at the root of the repository.
 ## Data
-We use the processed Scannet and Tanks and Temples datasets from SCADE [here](http://download.cs.stanford.edu/orion/scade/datasets.zip). Please follow the instructions there to download and unzip the data. Place the unzipped folder at the root of the repository.
+We use the processed Scannet and Tanks and Temples datasets from [SCADE](http://download.cs.stanford.edu/orion/scade/datasets.zip). Please follow the instructions there to download and unzip the data. Place the unzipped folder at the root of the repository.
 ## Code
 
 ### Environment Set-up
