@@ -1,5 +1,5 @@
 # ProvNeRF: Modeling per Point Provenance in NeRFs as a Stochastic Field
-**[ProvNeRF: Modeling per Point Provenance in NeRFs as a Stochastic Fi]([https://provnerf.github.io/))** 
+**[ProvNeRF: Modeling per Point Provenance in NeRFs as a Stochastic Field] [Project Webpage]([https://provnerf.github.io/))** 
 
 Kiyohiro Nakayama, Mikaela Angelina Uy, Yang You, Ke Li, Leonidas Guibas
 
